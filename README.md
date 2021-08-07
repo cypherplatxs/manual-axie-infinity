@@ -102,4 +102,18 @@ Aquí es donde podrás filtrar el listado para mostrar solamente los axies que t
 
 - Otro: Acá se elige el período de minteo del axie. Pronto más detalles.
 
-___
+### Partes
+
+Aquí es donde podrás filtrar los axies específicando las partes de su cuerpo:
+
+- Ojos
+- Orejas
+- Bocas
+- Cuernos
+- Espaldas
+- Colas
+
+Bocas, cuernos, espaldas y colas determinan las cartas de abilidad. Puedes explorar mejor estas builds en AxieZone o AxieWorld. Entender las habilidades es la clave para dominar la arena PVP.
+
+### Estadísticas
+
