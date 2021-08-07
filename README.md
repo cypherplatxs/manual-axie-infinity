@@ -117,3 +117,15 @@ Bocas, cuernos, espaldas y colas determinan las cartas de abilidad. Puedes explo
 
 ### Estadísticas
 
+- Salud: cantidad de puntos de vida.
+
+- Velocidad: Dicta el orden el turno en una batalla. Los axies más rápidos atacan primero. Si dos axies tienen la misma velocidad, seguirán este orden:
+
+		Alta velocidad > Baja salud > Alta Habilidad > Alta Moral > Bajo id de lucha
+
+- Habilidad: Agrega daño cuando un axie hace un combo (jugar dos o más cartas en un turno). 
+
+		# El daño se calcula así
+		(ataque de carta * habilidad)/500
+
+- Moral: incrementa la posibildiad de daño crítico. Hace que el "last stand" sea más probable cuando la hp va debajo de cero.
