@@ -87,6 +87,11 @@ Aquí es donde podrás filtrar el listado para mostrar solamente los axies que t
 
 - Clase: Uno de los factores más importantes al comprar un axie. Las clases no sólo determinan el aspecto del Axie, también las ventajas que tandrás en la batalla. El bonus sigue una lógica de "piedra, papel o tijeras".
 
+
+![Relacion entre clases](https://gblobscdn.gitbook.com/assets%2F-MZPgZOiVvvx113jK8Dp%2F-Mc0bsd-cnlg-3Ak3FbV%2F-Mc3zttyuESxKOLJU1qC%2F08%20-%20Class%20Advantage.png?alt=media&token=28da345f-67cc-4058-8965-c96a5d5f0f18)
+
+
+
 - Estado: Hay dos estados para los axies, huevaos y adultos. Los adultos están listos para la batalla, mientras que los huevos aún no se pueden usar y se desconoce las partes con las que nacerá.
 
 - Conteo de crías: Nos dice cuántas veces ha criado el axie. Todos los axies pueden criar 7 veces como máximo, y si buscas que tu axie pueda reproducirse más adelante deberías elegir los que tengan 0 crías. De otra manera, elige los que tienen un mayor conteo de crías pues son más baratos.
@@ -96,3 +101,5 @@ Aquí es donde podrás filtrar el listado para mostrar solamente los axies que t
 - Pureza: EL número de partes del cuero que cuya clase coincide con la del axie. Si el axie tiene solamente 1 parte que sea de su misma clase, entoces su pureza será de 1/6; y si sus 6 partes son de la misma clase entonces su pureza será de 6/6.
 
 - Otro: Acá se elige el período de minteo del axie. Pronto más detalles.
+
+___
