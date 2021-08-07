@@ -44,10 +44,55 @@ Hay dos maneras de depositar eth en tu wallet Ronin:
 
 - Comprando eth con fitar usando *RampNetwork*
 
-## 1.1 Deposita eth con Ronin Bridge
+### 1.1 Deposita eth con Ronin Bridge
 
 Según tú país, podrás comprar eth desde intercambios como Binance o coinbase, una vez tegas los ether en t cuenta podrás transferirlos a tu wallet Metamask
 
-## 1.2 Comprando con RampNetwork
+### 1.2 Comprando con RampNetwork
 
 El equipo de SkyMavis ha facilitado el proceso de compra de los axies, más info en https://axie.substack.com/p/ramp
+
+## 2. Buscando en el marketplace
+
+¿Entonces estás listx para comprar tu primer axie? Aquí encontrarás como navegar el marketplace de AxieInfinity.
+
+
+
+Al llegar al marketplace, verás tres partes principales:
+
+- Tipo de recurso:
+
+	_Arriba a la izquierda (debajo de la barra de menu)_
+	Aquí puedes elegir entre Axies, tierras, objetos y paquetes de recursos.
+
+- Panel de filtros:
+
+	_A la izquierda_
+	Puedes filtrar el listado para mostrar sólo lo que es relevante para tu compra actual.
+
+- Listados:
+
+	_En el medio, la parte más grande_ 
+	Donde vas a ver el recurso listado para venta por otros jugadorxs.
+
+![preview del sitio](https://gblobscdn.gitbook.com/assets%2F-MZPgZOiVvvx113jK8Dp%2F-MaX-dSGCO46nXkm4M_J%2F-MaXqKMlsPnrEdHEgOHw%2FBuying%20-%20marketplace.png?alt=media&token=f595a267-be50-450f-a0ba-4e4112bf1540)
+
+### 2.1 Panel de filtros
+
+Aquí es donde podrás filtrar el listado para mostrar solamente los axies que tienes em mente. Este puede ser el paso donde inviertas más tiempo. El sistema de filtros está dividido en 3 categorías: General, Partes y Estadístticas.
+
+![Filters detailed](https://gblobscdn.gitbook.com/assets%2F-MZPgZOiVvvx113jK8Dp%2F-MaX-dSGCO46nXkm4M_J%2F-MaXsszNHap0wIP3i9RG%2FBuying%20-%20Filter.png?alt=media&token=e44fa469-f4c7-4f81-a0f2-95030454ad0c)
+
+### General
+
+- Clase: Uno de los factores más importantes al comprar un axie. Las clases no sólo determinan el aspecto del Axie, también las ventajas que tandrás en la batalla. El bonus sigue una lógica de "piedra, papel o tijeras".
+
+- Estado: Hay dos estados para los axies, huevaos y adultos. Los adultos están listos para la batalla, mientras que los huevos aún no se pueden usar y se desconoce las partes con las que nacerá.
+
+- Conteo de crías: Nos dice cuántas veces ha criado el axie. Todos los axies pueden criar 7 veces como máximo, y si buscas que tu axie pueda reproducirse más adelante deberías elegir los que tengan 0 crías. De otra manera, elige los que tienen un mayor conteo de crías pues son más baratos.
+
+- Mísiticas: Las partes místicas son las más raras que un axie puede tener, entre mayor sea el número de partes, más raro y costoso es el axie.
+    
+- Pureza: EL número de partes del cuero que cuya clase coincide con la del axie. Si el axie tiene solamente 1 parte que sea de su misma clase, entoces su pureza será de 1/6; y si sus 6 partes son de la misma clase entonces su pureza será de 6/6.
+
+- Otro: Acá se elige el período de minteo del axie. Pronto más detalles.
